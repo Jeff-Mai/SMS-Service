@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("SMS-Service")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("SMS-Service V1.00 Build 190929_00001_Beta")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("珠海市万晟达科技有限公司")]
 [assembly: AssemblyProduct("SMS-Service")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2019")]
+[assembly: AssemblyCopyright("Copyright © WSD 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
