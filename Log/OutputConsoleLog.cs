@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace SMS_Service.Model.Base
+namespace SMS_Service.Log
 {
     /// <summary>
     /// 输出控制台日志
